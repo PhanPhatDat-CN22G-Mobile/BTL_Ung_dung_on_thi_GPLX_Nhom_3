@@ -13,18 +13,22 @@
 - Xây dựng toàn bộ hệ thống ứng dụng: Giao diện người dùng (Front-end), cơ sở dữ liệu (SQLite qua SQLiteHelper).  
 - Thiết kế và lập trình hoàn chỉnh các chức năng chính như: Thi sát hạch, Học lý thuyết, Biển báo giao thông, Mẹo đạt kết quả cao, Tra cứu luật.  
 - Tích hợp chatbot RASA vào ứng dụng để hỗ trợ người dùng ôn tập và trả lời tự động các câu hỏi GPLX.  
-- Đảm bảo kết nối chặt chẽ giữa các màn hình và tối ưu trải nghiệm người dùng trong toàn bộ quá trình sử dụng ứng dụng.  
-- Phát triển tính năng **“Các câu hay sai”** kết hợp phân tích chi tiết các trả lời nhằm hỗ trợ người học nhận biết và khắc phục lỗi sai thường gặp.  
-- Phối hợp chặt chẽ với người viết code để đảm bảo trải nghiệm người dùng (UI/UX) liền mạch, thân thiện, giao diện mượt mà và tối ưu hóa hiệu suất hiển thị trên thiết bị di động. |
+- Đảm bảo kết nối chặt chẽ giữa các màn hình và tối ưu trải nghiệm người dùng trong toàn bộ quá trình sử dụng ứng dụng.
+- Hỗ trợ người dùng dễ dàng thao tác và ghi nhớ. |
 
+| MSSV             | Họ Tên             |
+|------------------|--------------------|
 | **080205013041** | **Mai Trọng Phúc** |
 - Chịu trách nhiệm chính về nội dung: thu thập, tổng hợp và biên soạn dữ liệu câu hỏi thi sát hạch, mẹo ghi nhớ lý thuyết và nội dung luật giao thông đường bộ.  
 - Soạn thảo tài liệu, viết báo cáo học thuật và trình bày toàn bộ bằng LaTeX theo chuẩn trình bày kỹ thuật.  
 - Đảm bảo nội dung hiển thị rõ ràng, chính xác để tiếp cận cho người dùng trong quá trình ôn thi GPLX. |
 
+| MSSV             | Họ Tên              |
+|------------------|---------------------|
 | **077205004195** | **Nguyễn Tấn Phát** |
-- Thiết kế giao diện ứng dụng bằng Figma với hệ thống biểu tượng minh họa rõ ràng, bảng màu hài hòa và bố cục chức năng được sắp xếp trực quan, sinh động.  
-- Hỗ trợ người dùng dễ dàng thao tác và ghi nhớ. |
+- Thiết kế giao diện ứng dụng bằng Figma với hệ thống biểu tượng minh họa rõ ràng, bảng màu hài hòa và bố cục chức năng được sắp xếp trực quan, sinh động.
+- Phát triển tính năng **“Các câu hay sai”** kết hợp phân tích chi tiết các trả lời nhằm hỗ trợ người học nhận biết và khắc phục lỗi sai thường gặp.
+- Phối hợp chặt chẽ với người viết code để đảm bảo trải nghiệm người dùng (UI/UX) liền mạch, thân thiện, giao diện mượt mà và tối ưu hóa hiệu suất hiển thị trên thiết bị di động. |
 
 ---
 
